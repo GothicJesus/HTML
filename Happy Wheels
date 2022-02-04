@@ -1,0 +1,204 @@
+    <script>
+        function report_loading_issue() {
+            var el = document.createElement("img");
+            el.src = "/DEBUG2/wrong-ref.png?wl=" + window.location + "&wpl=" + window.parent.location + "&wlh=" + window.location.host + "&wplh=" + window.parent.location.host;
+            el.style.position = "absolute";
+            el.style.left = "-9999px";
+            el.style.top = "-9999px";
+            document.body.appendChild(el);
+        }
+		const pathToMyURL = 'https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://totaljerkface.com/get_level.hw';
+		
+
+        (function() {
+            window["HW_SETTINGS"] = {};
+            if(!(window.location != window.parent.location && window.location.host === "totaljerkface.com" && window.parent.location.host === "totaljerkface.com")) {
+            }
+
+
+            var d_el = document.createElement("script");
+			
+            d_el.src = "js/dependencies.ac8072eb8a22557c1b4828699b35bec7.js";
+            d_el.onload = function() {
+                var i_el = document.createElement("script");
+                i_el.src = "js/index.js";
+                // i_el.integrity = "sha384-GKAptyGydgK2fCaxFPGnAip+60TiYdFsB22A5ax8TB2dqT8ockqX1XI1rsr6fJIH";
+                i_el.onload = function() {
+                    document.getElementById("loading-indicator").remove();
+                }
+
+                document.body.appendChild(i_el);
+            }
+            document.body.appendChild(d_el);
+        })();
+    </script>
+<script src="js/dependencies.ac8072eb8a22557c1b4828699b35bec7.js"></script>
+
+
+    <div id="og-game-holder" style="background: black;">
+        
+    <canvas width="900" height="500" style="touch-action: none; position: absolute; top: 0px; left: 84.5px; width: 1197px; height: 665px; cursor: inherit;"></canvas>
+</div>
+
+	
+		
+
+
+<div id="26bc7897-5708-4d28-b2b9-49eb358a1e49" data-gg-chat-anchor="true" style="z-index: 2147483647; position: relative; display: block; height: 0px; min-height: 0px; width: 0px; min-width: 0px; margin: 0px; padding: 0px; border: 0px;"><div data-reactroot=""></div>
+</div>
+<div id="14256c3c-e08e-45e4-a58d-114270da7de2" data-gg-privacy-banner-anchor="true" style="z-index: 2147483647; position: relative; display: block; height: 0px; min-height: 0px; width: 0px; min-width: 0px; margin: 0px; padding: 0px; border: 0px;"><!-- react-empty: 1 --></div>
+<script src="js/index.js"></script>
+<div class="fontcache" style="position: fixed; margin-left: -100px; font-family: &quot;Clarendon LT Std&quot;;">.</div>
+<div class="fontcache" style="position: fixed; margin-left: -100px; font-family: &quot;Clarendon LT Std&quot;;">.</div>
+<div class="fontcache" style="position: fixed; margin-left: -100px; font-family: &quot;Bank Gothic&quot;;">.</div>
+<div class="fontcache" style="position: fixed; margin-left: -100px; font-family: &quot;HelveticaNeueLT Std&quot;;">.</div>
+<div class="fontcache" style="position: fixed; margin-left: -100px; font-family: &quot;HelveticaNeueLT Std&quot;;">.</div>
+<div class="fontcache" style="position: fixed; margin-left: -100px; font-family: &quot;HelveticaNeueLT Std Med&quot;;">.</div>
+<div style="background-position: 50% 50%; background-color: rgb(59, 59, 59); background-repeat: no-repeat; position: absolute; background-size: 80%; inset: 0px; z-index: 10000000; display: none; height: 100%; width: 100%; background-image: url(&quot;./image/high/device/rotate.jpg&quot;);"></div>
+<div class="snowlord-devConsole-container showing">
+	<div class="snowlord-devConsole-container-nav">
+		<a class="snowlord-devConsole-container-nav-elementViewer" style="float: left;">🔍</a>
+
+		<a class="snowlord-devConsole-container-nav-elementEditor" style="float: left;">✎</a>
+
+		<a name="snowlord-devConsole-container-body-elements" style="float: left;">Elements</a>
+
+		<a name="snowlord-devConsole-container-body-console" style="float: left;">Console</a>
+
+		<a name="snowlord-devConsole-container-body-sources" style="float: left;">Sources</a>
+
+		<a name="snowlord-devConsole-container-body-tools" style="float: left;">Tools</a>
+
+		<a name="snowlord-devConsole-container-body-settings" style="float: left;">Settings</a>
+
+		<a class="snowlord-devConsole-container-body-exit" style="float: right;">🗙</a>
+
+	</div>
+
+	
+	<div class="snowlord-devConsole-container-body">
+		<div class="snowlord-devConsole-container-body-elements hidden">
+			<h3 style="border-bottom: 2px solid #000;">Elements</h3>
+
+            <div class="snowlord-devConsole-container-body-elements-container" style="white-space: pre; width: 100%; height: 200px; overflow: scroll;">
+            </div>
+
+		</div>
+
+		
+		<div class="snowlord-devConsole-container-body-console hidden">
+			<div class="snowlord-devConsole-container-body-console-text" style="user-select: auto;">
+				<div class="snowlord-devConsole-container-body-console-messages">
+					<span style="color: #bababa; user-select: none;">⮞8:42:06 </span>
+
+					<span style="color: #000;">Console has loaded!</span>
+
+				</div>
+
+			</div>
+
+			<div class="snowlord-devConsole-container-body-console-commands">
+				<textarea id="snowlord-devConsole-container-body-console-input" placeholder="console.log('Hello World!');" style="resize: horizontal; position: sticky; width: 100%; height: 90%; outline: none; border: none;"></textarea>
+
+			</div>
+
+		</div>
+
+		
+		<div class="snowlord-devConsole-container-body-sources showing">
+			<div class="snowlord-devConsole-container-body-sources-scripts" style="padding-left: 10px;">
+				<h3 style="border-bottom: 2px solid #000;">Page <a class="snowlord-devConsole-container-body-sources-scripts-reload" style="cursor: pointer; color: #0a68ff; user-select: none;">↺</a>
+</h3>
+
+				<div class="snowlord-devConsole-container-body-sources-scripts-container" style="float: left; width: 60%; background-color: #bababa;">
+					<ul style="float: left; width: 26%; padding: 3%; margin: 0;">
+						<li>Scripts</li>
+
+						<ul class="snowlord-devConsole-container-body-sources-other" style="padding: 3px; height: 120px; overflow:hidden; overflow-y:scroll; background-color: #e0e0e0;"><li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.href;" href="#">main.js</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.href;" href="#">dependencies.ac8072eb8a22557c1b4828699b35bec7.js</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.href;" href="#">index.js</a>
+</li>
+</ul>
+
+					</ul>
+
+					<ul style="float: left; width: 26%; padding: 3%; margin: 0;">
+						<li>Styles</li>
+
+						<ul class="snowlord-devConsole-container-body-sources-styles" style="padding: 3px; height: 120px; overflow:hidden; overflow-y:scroll; background-color: #e0e0e0;"><li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">Untitled-1.png</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">89d595d4-a0fa-43d8-8a08-f3cf966e394a</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">10044ab7-ee02-4ae1-b4da-dec9d0849e39</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">c89b25d0-1095-492f-b5ec-272ccad27446</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">f854f531-7b77-474f-840e-ac569a97fcb6</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">6ecf0f51-caf0-43ea-a831-5edd164bfb97</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">ClarendonLTStd-Bold.css</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">ClarendonLTStd.css</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">Bank-Gothic-Medium.css</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">HelveticaNeueLTStd-Bd.css</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">HelveticaNeueLTStd-Roman.css</a>
+</li>
+<li><a onclick="document.getElementsByClassName(&quot;snowlord-devConsole-container-body-sources-scripts-preview-frame&quot;)[0].src = this.src;" target="_blank">HelveticaNeueLTStd-Md.css</a>
+</li>
+</ul>
+
+					</ul>
+
+					<ul style="float: left; width: 26%; padding: 3%; margin: 0;">
+						<li>Meta</li>
+
+						<ul class="snowlord-devConsole-container-body-sources-main" style="padding: 3px; height: 120px; overflow:hidden; overflow-y:scroll; background-color: #e0e0e0;"><li><a onclick="alert('text/html; charset=UTF8');">undefined</a>
+</li>
+<li><a onclick="alert('#36393F');">theme-color</a>
+</li>
+<li><a onclick="alert('https://i.ibb.co/crzLKF5/Untitled-1.png');">undefined</a>
+</li>
+<li><a onclick="alert('https://i.ibb.co/crzLKF5/Untitled-1.png');">undefined</a>
+</li>
+<li><a onclick="alert('Play Happy Wheels online for free, unblocked!');">description</a>
+</li>
+<li><a onclick="alert('IE=edge');">undefined</a>
+</li>
+<li><a onclick="alert('yes');">apple-mobile-web-app-capable</a>
+</li>
+<li><a onclick="alert('black');">apple-mobile-web-app-status-bar-style</a>
+</li>
+<li><a onclick="alert('width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui');">viewport</a>
+</li>
+</ul>
+
+					</ul>
+
+				</div>
+
+				
+				<div class="snowlord-devConsole-container-body-sources-scripts-preview" style="float: left; width: 40 %; background-color: #bababa;">
+					<iframe class="snowlord-devConsole-container-body-sources-scripts-preview-frame" width="100%" height="100%" frameborder="0" scrolling="yes"></iframe>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		
+		<div class="snowlord-devConsole-container-body-tools hidden">
+			<h3 style="border-bottom: 2px solid #000;">Tools</h3>
+
+            <h4>Local Storage</h4>
+<div id="snowlord-devConsole-localStorage">{
+  <span class="key">"options135":</span>
+ <span class="string">"{\"keyCodes\":{\"accelerateCode\":38,\"decelerateCode\":40,\"leanForwardCode\":39,\"leanBackCode\":37,\"primaryActionCode\":32,\"secondaryAction1Code\":16,\"secondaryAction2Code\":17,\"ejectCode\":90,\"switchCameraCode\":67},\"fatlady\":1}"</span>
+
+}</div>
